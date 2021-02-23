@@ -1,3 +1,4 @@
+<img width="auto" src="https://github.com/uliwill/uliwill/blob/main/Capa%20Twitter.png">
 ## Ulisses Willian Reichenbach
 
 ## Olá pessoal! 👋
