@@ -15,4 +15,4 @@ Estou cursando Análise e Desenvolvimento de Sistemas. No momento focando em tre
 ## Contato:
 - uliwill@gmail.com
 - [https://twitter.com/uliwill](https://twitter.com/uliwill)
-- [https://www.linkedin.com/in/ulisses-willian-reichenbach-1852b432/](https://www.linkedin.com/in/ulisses-willian-reichenbach-1852b432/)
+- [https://www.linkedin.com/in/uliwill/](https://www.linkedin.com/in/uliwill/)
