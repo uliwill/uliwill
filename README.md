@@ -4,13 +4,14 @@
 
 ## Olá pessoal! 👋
 
-Estou cursando Análise e Desenvolvimento de Sistemas. No momento focando em treinar React e Next, pra colocar alguns projetos legais no portfólio.
+Recém formado em Análise e Desenvolvimento de Sistemas (08/2021). No momento focando em treinar React e Next, pra colocar alguns projetos legais no portfólio.
 
 ## Minha stack:
 - ReactJS
 - React Native
 - Node.js
 - Typescript
+- Java
 
 ## Contato:
 - uliwill@gmail.com
